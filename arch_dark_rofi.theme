@@ -1,0 +1,10 @@
+! ------------------------------------------------------------------------------
+! Author: Lucas Monteiro de Oliveira
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.color-window: argb:b02f343f, argb:b02f343f, argb:b02f343f
+rofi.color-normal: argb:0000000, #b5b5a4, argb:0000000, argb:0000000, argb:fef3843d
+rofi.color-active: argb:0000000, #b5b5a4, argb:0000000, argb:0000000, #f3843d
+rofi.color-urgent: argb:0000000, #b5b5a4, argb:0000000, argb:0000000, #f3843d
+
