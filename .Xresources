@@ -1,2 +1,47 @@
-URxvt.font: xft:monospace:size=10
+! ------------------------------------------------------------------------------
+! Lucas Monteiro de Oliveira
+! URxvt Color Theme
+! ------------------------------------------------------------------------------
+
+!font
+URxvt.font: xft:monospace:size=11
+URxvt.iconFont: xft:FontAwesome:size=11
+
+!configs
 URxvt.scrollBar: false
+
+!main colors
+URxvt.background: #2f343f
+URxvt.foreground:   #b5b5a4
+
+!black
+URxvt.color0:       #444444
+URxvt.color8:       #888888
+
+! red
+URxvt.color1:       #8e434b
+URxvt.color9:       #c65d69
+
+! green
+URxvt.color2:       #71880f
+URxvt.color10:      #a7ca17
+
+! yellow
+URxvt.color3:       #c16000
+URxvt.color11:      #f58d27
+
+! blue
+URxvt.color4:       #667daa
+URxvt.color12:      #94b7f9
+
+! magenta
+URxvt.color5:       #85678f
+URxvt.color13:      #c096d0
+
+! cyan
+URxvt.color6:       #4d8588
+URxvt.color14:      #73c7cc
+
+! white
+URxvt.color7:       #aaaaaa
+URxvt.color15:      #eeeeee
