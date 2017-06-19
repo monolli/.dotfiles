@@ -194,7 +194,6 @@ exec_always feh --bg-scale ~/.i3/yosemite-gold.jpg
 bindsym $mod+d exec rofi -show drun -lines 3 -eh 2 -width 100 -padding 800
 
 # autorun
-exec xrdb ~/.Xresources
 exec urxvt
 exec sh ~/pia.sh
 exec redshift-gtk
